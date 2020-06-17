@@ -1,6 +1,6 @@
 // configure the test here
 var TestConfig = {
-  "TestName": "Mushra Demo Test",
+  "TestName": "SATB Source Separation Listening Test",
   "RateScalePng": "img/scale_abs.png",
   "RateScaleBgPng": "img/scale_abs_background.png",
   "RateMinValue": 0,
@@ -16,7 +16,7 @@ var TestConfig = {
   "RandomizeTestOrder": false,
   "MaxTestsPerRun": 3,
   "RequireMaxRating": false,
-  "AudioRoot": "",
+  "AudioRoot": "./audio/",
   "Testsets": [
     //    
     {
